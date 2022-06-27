@@ -7,17 +7,17 @@ namespace tabuleiro
     class Posicao
     {
         public int Linha { get; set; }
-        public int coluna { get; set; }
+        public int Coluna { get; set; }
 
         public Posicao(int linha, int coluna)
         {
             Linha = linha;
-            this.coluna = coluna;
+            Coluna = coluna;
         }
 
         public override string ToString()
         {
-            return Linha + ", " + coluna;
+            return Linha + ", " + Coluna;
         }
     }
 }
