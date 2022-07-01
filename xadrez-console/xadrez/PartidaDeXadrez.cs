@@ -99,7 +99,7 @@ namespace xadrez
 
         public void ValidarPosicaoDeDestino(Posicao inicial, Posicao final)
         {
-            if (!Tab.Peca(inicial).PodeMoverPara(final))
+            if (!Tab.Peca(inicial).MovimentoPossivel(final))  
             {
                 throw new TabuleiroException("Posição de destino inválida!");
             }
@@ -207,7 +207,7 @@ namespace xadrez
                             bool testeXeque = EstaEmXeque(cor);
                             DesfazMovimento(origem, destino, pecaCapturada);  
                             if (!testeXeque)
-                            {
+                            { 
                                 return false;
                             }
                         }
