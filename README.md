@@ -15,3 +15,11 @@ O programa consiste em um jogo de xadrez, onde dois usuários se enfrentam em um
 <h1 align="center">
 Layout console
 </h1>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101528945/183773212-f88de20b-3adb-4b1e-803f-3bf31476ea3e.png" />
+</div> <br></br>
+
+<h1 align="center">
+Video do Programa
+</h1>
