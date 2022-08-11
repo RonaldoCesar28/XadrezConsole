@@ -23,3 +23,36 @@ Layout console
 <h1 align="center">
 Video do Programa
 </h1>
+
+<h1 align="center">
+Ferramentas Utilizadas
+</h1>
+
+## Back end
+- C#
+- Visual Studio
+
+<h1 align="center">
+Como executar o projeto
+</h1>
+
+## Back end
+Pré-requisitos: Visual Studio
+
+```bash
+# clonar repositório
+git clone https://github.com/RonaldoCesar28/XadrezConsole
+
+# entrar na pasta do projeto backend
+cd xadrez-console
+
+# executar o projeto
+xadrez-console.sln
+```
+<h1 align="center">
+Autor
+</h1>
+
+Ronaldo Cesar Alves Nogueira
+
+https://www.linkedin.com/in/ronaldo-c%C3%A9sar-46507941/
