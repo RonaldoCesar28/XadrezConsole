@@ -45,7 +45,7 @@ Pré-requisitos: Visual Studio
 
 ```bash
 # clonar repositório
-git clone https://github.com/RonaldoCesar28/XadrezConsole
+git clone git@github.com/RonaldoCesar28/XadrezConsole
 
 # entrar na pasta do projeto backend
 cd xadrez-console
